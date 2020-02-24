@@ -15,7 +15,7 @@
 #endif
 
 
-extension NSAttributedString {
+public extension NSAttributedString {
 
     /// Instantiates an attributed string with the given HTML string
     ///
